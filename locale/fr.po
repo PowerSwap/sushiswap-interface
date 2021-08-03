@@ -50,7 +50,7 @@ msgstr "Ajouter"
 msgid "Add Liquidity"
 msgstr "Ajouter de la liquidité"
 
-msgid "Add SUSHI to your MetaMask wallet"
+msgid "Add POWER to your MetaMask wallet"
 msgstr ""
 
 msgid "Add collateral in order to borrow assets"
