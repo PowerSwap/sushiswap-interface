@@ -108,8 +108,8 @@ function MISO() {
 
               <MisoArticles
                 title={`How do I participate?`}
-                content={`The auction receives $SUSHI as its payment token currency. Go to auction page, 
-                          commit the amount of $SUSHI you’d like and claim your purchase after the 
+                content={`The auction receives $POWER as its payment token currency. Go to auction page, 
+                          commit the amount of $POWER you’d like and claim your purchase after the 
                           auction finishes.`}
               />
 

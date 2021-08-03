@@ -1,6 +1,6 @@
 import { ArrowDownIcon, InformationCircleIcon } from '@heroicons/react/solid'
 import { ChainId, Currency, Token } from '@powerswap/sdk'
-import { MEOW, SUSHI, XSUSHI } from '../../constants'
+import { MEOW, POWER, XSUSHI } from '../../constants'
 import React, { useCallback, useEffect, useMemo, useState } from 'react'
 
 import Container from '../../components/Container'
@@ -50,7 +50,7 @@ export default function Meowshi() {
   })
 
   const [currencies, setCurrencies] = useState({
-    [Field.INPUT]: SUSHI[ChainId.MAINNET],
+    [Field.INPUT]: POWER[ChainId.MAINNET],
     [Field.OUTPUT]: MEOW,
   })
 
@@ -162,8 +162,8 @@ export default function Meowshi() {
           </div>
           <Typography variant="sm" className="text-secondary ml-[26px]">
             {currencies[Field.INPUT]?.symbol} →{' '}
-            {(currencies[Field.INPUT] === SUSHI[ChainId.MAINNET] ||
-              currencies[Field.OUTPUT] === SUSHI[ChainId.MAINNET]) &&
+            {(currencies[Field.INPUT] === POWER[ChainId.MAINNET] ||
+              currencies[Field.OUTPUT] === POWER[ChainId.MAINNET]) &&
               ' xSUSHI → '}
             {currencies[Field.OUTPUT]?.symbol}
           </Typography>

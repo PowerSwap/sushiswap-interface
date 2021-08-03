@@ -136,7 +136,7 @@ function AppBar(): JSX.Element {
                                     symbol: 'XSUSHI',
                                     decimals: 18,
                                     image:
-                                      'https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png',
+                                      'https://raw.githubusercontent.com/powerswap/assets/master/blockchains/ethereum/assets/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272/logo.png',
                                   },
                                 }
                                 library.provider
