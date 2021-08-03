@@ -2,7 +2,7 @@ import { NETWORK_ICON, NETWORK_LABEL } from '../../constants/networks'
 import { useModalOpen, useNetworkModalToggle } from '../../state/application/hooks'
 
 import { ApplicationModal } from '../../state/application/actions'
-import { ChainId } from '@sushiswap/sdk'
+import { ChainId } from '@powerswap/sdk'
 import Image from 'next/image'
 import Modal from '../../components/Modal'
 import ModalHeader from '../../components/ModalHeader'
@@ -104,6 +104,22 @@ export const SUPPORTED_NETWORKS: {
       'https://s3.api.harmony.one',
     ],
     blockExplorerUrls: ['https://explorer.harmony.one/'],
+  },
+  [ChainId.HARMONY_TESTNET]: {
+    chainId: '0x6357D2E0',
+    chainName: 'Harmony Testnet',
+    nativeCurrency: {
+      name: 'One Token',
+      symbol: 'ONE',
+      decimals: 18,
+    },
+    rpcUrls: [
+      'https://api.s0.b.hmny.io',
+      'https://api.s1.b.hmny.io',
+      'https://api.s2.b.hmny.io',
+      'https://api.s3.b.hmny.io',
+    ],
+    blockExplorerUrls: ['https://explorer.testnet.harmony.one/'],
   },
   [ChainId.AVALANCHE]: {
     chainId: '0xA86A',

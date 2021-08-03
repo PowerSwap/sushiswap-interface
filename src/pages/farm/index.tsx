@@ -19,7 +19,7 @@ import {
   useSushiPrice,
 } from '../../services/graph'
 
-import { ChainId } from '@sushiswap/sdk'
+import { ChainId } from '@powerswap/sdk'
 import Container from '../../components/Container'
 import FarmList from '../../features/farm/FarmList'
 import Head from 'next/head'

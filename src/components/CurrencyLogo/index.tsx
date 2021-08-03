@@ -1,4 +1,4 @@
-import { ChainId, Currency, WNATIVE } from '@sushiswap/sdk'
+import { ChainId, Currency, WNATIVE } from '@powerswap/sdk'
 import React, { FunctionComponent, useMemo } from 'react'
 
 import Logo from '../Logo'
@@ -24,6 +24,7 @@ const BLOCKCHAIN = {
   [ChainId.CELO]: 'celo',
   [ChainId.FANTOM]: 'fantom',
   [ChainId.HARMONY]: 'harmony',
+  [ChainId.HARMONY_TESTNET]: 'harmony-testnet',
   [ChainId.MATIC]: 'polygon',
   [ChainId.XDAI]: 'xdai',
   // [ChainId.OKEX]: 'okex',

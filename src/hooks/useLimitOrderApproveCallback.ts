@@ -7,7 +7,7 @@ import { useDerivedLimitOrderInfo, useLimitOrderApprovalPending, useLimitOrderSt
 import { useDispatch } from 'react-redux'
 import { setFromBentoBalance, setLimitOrderApprovalPending } from '../state/limit-order/actions'
 import { useTransactionAdder } from '../state/transactions/hooks'
-import { Token } from '@sushiswap/sdk'
+import { Token } from '@powerswap/sdk'
 import { getSignatureWithProviderBentobox, getVerifyingContract } from 'limitorderv2-sdk'
 import { Field } from '../state/swap/actions'
 import { calculateGasMargin, ZERO } from '../functions'

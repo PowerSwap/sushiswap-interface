@@ -1,4 +1,4 @@
-import { ChainId, Currency, NATIVE, SUSHI_ADDRESS } from '@sushiswap/sdk'
+import { ChainId, Currency, NATIVE, SUSHI_ADDRESS } from '@powerswap/sdk'
 import React, { useEffect, useState } from 'react'
 
 import { ANALYTICS_URL } from '../../constants'
@@ -178,10 +178,10 @@ function AppBar(): JSX.Element {
                                 type: 'ERC20',
                                 options: {
                                   address: SUSHI_ADDRESS[chainId],
-                                  symbol: 'SUSHI',
+                                  symbol: 'POWER',
                                   decimals: 18,
                                   image:
-                                    'https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png',
+                                    'https://raw.githubusercontent.com/PowerSwap/assets/master/blockchains/harmony/assets/0x14Ac72f5063Dcd01DdB1eC25Ed0880127a955366/logo.png',
                                 },
                               }
                               if (library && library.provider.isMetaMask && library.provider.request) {
@@ -192,7 +192,7 @@ function AppBar(): JSX.Element {
                                   })
                                   .then((success) => {
                                     if (success) {
-                                      console.log('Successfully added SUSHI to MetaMask')
+                                      console.log('Successfully added POWER to MetaMask')
                                     } else {
                                       throw new Error('Something went wrong.')
                                     }
@@ -202,8 +202,8 @@ function AppBar(): JSX.Element {
                             }}
                           >
                             <Image
-                              src="/images/tokens/sushi-square.jpg"
-                              alt="SUSHI"
+                              src="/images/tokens/power-square.png"
+                              alt="POWER"
                               width="38px"
                               height="38px"
                               objectFit="contain"

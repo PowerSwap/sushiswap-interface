@@ -1,4 +1,4 @@
-import { ChainId } from '@sushiswap/sdk'
+import { ChainId } from '@powerswap/sdk'
 
 type AddressMap = { [chainId: number]: string }
 
@@ -11,7 +11,8 @@ export const ARCHER_ROUTER_ADDRESS: AddressMap = {
 export const MINICHEF_ADDRESS: AddressMap = {
   [ChainId.MATIC]: '0x0769fd68dFb93167989C6f7254cd0D766Fb2841F',
   [ChainId.XDAI]: '0xdDCbf776dF3dE60163066A5ddDF2277cB445E0F3',
-  [ChainId.HARMONY]: '0x67dA5f2FfaDDfF067AB9d5F025F8810634d84287',
+  [ChainId.HARMONY]: '0x05627dA906Cac60AdD994877Bffd4bdF43aF99A3',
+  [ChainId.HARMONY_TESTNET]: '',
 }
 
 export const MASTERCHEF_V2_ADDRESS: AddressMap = {
@@ -51,7 +52,7 @@ export const MULTICALL2_ADDRESS: AddressMap = {
   [ChainId.HECO]: '0xdDCbf776dF3dE60163066A5ddDF2277cB445E0F3',
   [ChainId.HECO_TESTNET]: '',
   [ChainId.HARMONY]: '0xdDCbf776dF3dE60163066A5ddDF2277cB445E0F3',
-  [ChainId.HARMONY_TESTNET]: '',
+  [ChainId.HARMONY_TESTNET]: '0x4517360C38Ec09c4566B8Ed67620Edda7131EB04',
   [ChainId.OKEX]: '0xF4d73326C13a4Fc5FD7A064217e12780e9Bd62c3',
   [ChainId.OKEX_TESTNET]: '',
 }
