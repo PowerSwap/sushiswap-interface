@@ -14,23 +14,23 @@ import { GRAPH_HOST } from '../constants'
 import { request } from 'graphql-request'
 
 export const MINICHEF = {
-  [ChainId.MATIC]: 'sushiswap/matic-minichef',
+  [ChainId.MATIC]: 'powerswap/matic-minichef',
   [ChainId.XDAI]: 'matthewlilley/xdai-minichef',
-  [ChainId.HARMONY]: 'sushiswap/harmony-minichef',
+  [ChainId.HARMONY]: 'powerswap/harmony-minichef',
 }
 
 export const miniChef = async (query, chainId = ChainId.MAINNET) =>
   request(`${GRAPH_HOST[chainId]}/subgraphs/name/${MINICHEF[chainId]}`, query)
 
 export const MASTERCHEF_V2 = {
-  [ChainId.MAINNET]: 'sushiswap/master-chefv2',
+  [ChainId.MAINNET]: 'powerswap/master-chefv2',
 }
 
 export const masterChefV2 = async (query, chainId = ChainId.MAINNET) =>
   request(`${GRAPH_HOST[chainId]}/subgraphs/name/${MASTERCHEF_V2[chainId]}`, query)
 
 export const MASTERCHEF_V1 = {
-  [ChainId.MAINNET]: 'sushiswap/master-chef',
+  [ChainId.MAINNET]: 'powerswap/master-chef',
 }
 
 export const masterChefV1 = async (query, chainId = ChainId.MAINNET) =>

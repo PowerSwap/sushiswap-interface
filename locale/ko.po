@@ -742,6 +742,9 @@ msgstr "{0} 풀에 추가됨"
 msgid "Positions"
 msgstr "포지션"
 
+msgid "Power is a supporter of Open Source."
+msgstr ""
+
 msgid "Price Impact"
 msgstr "가격 영향"
 
@@ -1018,9 +1021,6 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-msgid "Vesting"
-msgstr "베스팅"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr ""
 
@@ -1044,9 +1044,6 @@ msgstr "지갑"
 
 msgid "Wallet Balance"
 msgstr "지갑 잔액"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr ""
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "쌍을 만들 때 귀하는 최초의 유동성 공급자입니다. 추가하는 토큰의 비율이이 풀의 가격을 설정합니다. 요금에 만족하면 공급을 클릭하여 검토하세요."

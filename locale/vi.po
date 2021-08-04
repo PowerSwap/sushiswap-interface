@@ -742,6 +742,9 @@ msgstr "Đã gộp chung {0}"
 msgid "Positions"
 msgstr "Vị thế"
 
+msgid "Power is a supporter of Open Source."
+msgstr ""
+
 msgid "Price Impact"
 msgstr "Tác động giá"
 
@@ -1018,9 +1021,6 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-msgid "Vesting"
-msgstr "Quyền được hưởng"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr ""
 
@@ -1044,9 +1044,6 @@ msgstr "Ví tiền"
 
 msgid "Wallet Balance"
 msgstr "Số dư trên ví"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr ""
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "Khi tạo một cặp, bạn là nhà cung cấp thanh khoản đầu tiên. Tỷ lệ token bạn thêm vào sẽ thiết lập giá của mạng lưới này. Khi bạn hài lòng với tỷ lệ, hãy nhấp vào tổng cung để xem xét"

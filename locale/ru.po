@@ -744,6 +744,9 @@ msgstr "Объединено {0}"
 msgid "Positions"
 msgstr "Позиции"
 
+msgid "Power is a supporter of Open Source."
+msgstr ""
+
 msgid "Price Impact"
 msgstr "Влияние на цену"
 
@@ -1020,9 +1023,6 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-msgid "Vesting"
-msgstr "Передача прав на ценные бумаги"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr ""
 
@@ -1046,9 +1046,6 @@ msgstr "Кошелек"
 
 msgid "Wallet Balance"
 msgstr "Баланс Кошелька"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr ""
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "Создавая пару, вы являетесь первым поставщиком ликвидности. Соотношение добавляемых вами токенов будет определять цену этого пула. Как только вы будете довольны ставкой, нажмите «поставка», чтобы просмотреть"

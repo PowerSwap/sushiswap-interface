@@ -108,7 +108,7 @@ export default function Farm(): JSX.Element {
 
       const defaultReward = {
         token: 'POWER',
-        icon: 'https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg',
+        icon: 'https://raw.githubusercontent.com/powerswap/icons/master/token/power.jpg',
         rewardPerBlock,
         rewardPerDay: rewardPerBlock * blocksPerDay,
         rewardPrice: sushiPrice,

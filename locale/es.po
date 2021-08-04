@@ -744,6 +744,9 @@ msgstr "{0} agrupado"
 msgid "Positions"
 msgstr "Posiciones"
 
+msgid "Power is a supporter of Open Source."
+msgstr ""
+
 msgid "Price Impact"
 msgstr "Impacto en el precio"
 
@@ -1020,9 +1023,6 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-msgid "Vesting"
-msgstr "Conferir"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr ""
 
@@ -1046,9 +1046,6 @@ msgstr "Cartera"
 
 msgid "Wallet Balance"
 msgstr "Saldo de la cartera"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr ""
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "Al crear un par, es el primer proveedor de liquidez. La proporción de tokens que agregue establecerá el precio de este fondo. Una vez que esté satisfecho con la tarifa, haga clic en suministrar para revisar"

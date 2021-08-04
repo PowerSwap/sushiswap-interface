@@ -730,6 +730,9 @@ msgstr "汇集{0}"
 msgid "Positions"
 msgstr "倉位"
 
+msgid "Power is a supporter of Open Source."
+msgstr ""
+
 msgid "Price Impact"
 msgstr "價格影響"
 
@@ -1006,9 +1009,6 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-msgid "Vesting"
-msgstr "鎖倉"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr ""
 
@@ -1032,9 +1032,6 @@ msgstr "錢包"
 
 msgid "Wallet Balance"
 msgstr "錢包余額"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr ""
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "當創建一個交易對時，您是第一個流動性提供者。您添加的代幣比例將決定這個池子的價格。一旦您對該比率滿意，點擊供應進行查看"

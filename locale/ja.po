@@ -744,6 +744,9 @@ msgstr "{0}をプールしました"
 msgid "Positions"
 msgstr "ポジション"
 
+msgid "Power is a supporter of Open Source."
+msgstr ""
+
 msgid "Price Impact"
 msgstr "価格への影響"
 
@@ -1020,9 +1023,6 @@ msgstr ""
 msgid "Used"
 msgstr ""
 
-msgid "Vesting"
-msgstr "権利を確定しています"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr ""
 
@@ -1046,9 +1046,6 @@ msgstr "ウォレット"
 
 msgid "Wallet Balance"
 msgstr "ウォレット残高"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr ""
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "ペアを作成すると、あなたが最初の流動性プロバイダーとなります。追加したトークンの比率によって、このプールの価格が設定されます。レートに問題がなければ、 供給をクリックして確認します"

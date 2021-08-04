@@ -753,6 +753,9 @@ msgstr "Pooled {0}"
 msgid "Positions"
 msgstr "Positions"
 
+msgid "Power is a supporter of Open Source."
+msgstr "Power is a supporter of Open Source."
+
 msgid "Price Impact"
 msgstr "Price Impact"
 
@@ -1031,9 +1034,6 @@ msgstr "Use xSUSHI"
 msgid "Used"
 msgstr "Used"
 
-msgid "Vesting"
-msgstr "Vesting"
-
 msgid "Vesting is executed within the guidelines selected by the community in"
 msgstr "Vesting is executed within the guidelines selected by the community in"
 
@@ -1057,9 +1057,6 @@ msgstr "Wallet"
 
 msgid "Wallet Balance"
 msgstr "Wallet Balance"
-
-msgid "Weekly unlocks from the vesting period."
-msgstr "Weekly unlocks from the vesting period."
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
 msgstr "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
