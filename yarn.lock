@@ -2175,10 +2175,10 @@
     penpal "3.0.7"
     pocket-js-core "0.0.3"
 
-"@powerswap/sdk@1.1.0-ps":
-  version "1.1.0-ps"
-  resolved "https://registry.yarnpkg.com/@powerswap/sdk/-/sdk-1.1.0-ps.tgz#19c89eaa43c3f1d6fa81799b48b11c47fe632476"
-  integrity sha512-zK2zkXD+UKN3jGqiY2f1QmHZenm4Mtj2YkU55U8VlS+q5QFkM4Kjf3EXkUDXHjDdwy8dSAiir4rBwU47+zJ2iw==
+"@powerswap/sdk@1.11.0-ps":
+  version "1.11.0-ps"
+  resolved "https://registry.yarnpkg.com/@powerswap/sdk/-/sdk-1.11.0-ps.tgz#f5dd481345495b6d4cb2edef8a58748e31e74cb9"
+  integrity sha512-Onv7X4pQgMBed5iU8mTz2HSiPxt4j+qCktVo96U1hxj5v0rfwSYs2ix1CC2hZcV0NG9o3qLUMm4FSex7T0pK4Q==
   dependencies:
     "@sushiswap/core" "^2.0.0-canary.0"
     big.js "^5.2.2"

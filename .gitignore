@@ -25,3 +25,6 @@ public/workbox*.js.map
 .env
 
 lokalise.yaml
+.firebase/hosting.cHVibGlj.cache
+.firebase/hosting.YnVpbGQ.cache
+out/

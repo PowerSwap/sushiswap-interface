@@ -22,7 +22,8 @@ export const EXCHANGE = {
   [ChainId.MATIC]: 'sushiswap/matic-exchange',
   [ChainId.FANTOM]: 'sushiswap/fantom-exchange',
   [ChainId.BSC]: 'sushiswap/bsc-exchange',
-  [ChainId.HARMONY]: 'sushiswap/harmony-exchange',
+  // [ChainId.HARMONY]: 'sushiswap/harmony-exchange', // todo farm
+  [ChainId.HARMONY]: 'powerswap/harmony-exchange', // todo farm
   [ChainId.OKEX]: 'sushiswap/okex-exchange',
   [ChainId.AVALANCHE]: 'sushiswap/avalanche-exchange',
   [ChainId.CELO]: 'sushiswap/celo-exchange',

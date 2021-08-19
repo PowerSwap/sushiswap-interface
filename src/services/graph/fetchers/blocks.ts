@@ -11,7 +11,7 @@ export const BLOCKS = {
   [ChainId.MATIC]: 'matthewlilley/polygon-blocks',
   [ChainId.FANTOM]: 'matthewlilley/fantom-blocks',
   [ChainId.BSC]: 'matthewlilley/bsc-blocks',
-  [ChainId.HARMONY]: 'sushiswap/harmony-blocks',
+  [ChainId.HARMONY]: 'harmony/blocks',
   [ChainId.AVALANCHE]: 'matthewlilley/avalanche-blocks',
   [ChainId.CELO]: 'sushiswap/celo-blocks',
 }

@@ -17,8 +17,6 @@ msgid ""
 "(COMING SOON) Accrue automatic yield through flash loans and\n"
 "POWER strategies"
 msgstr ""
-"(DEMNÄCHST) Erzielen Sie automatische Erträge durch Flash-Kredite und \n"
-" POWER-Strategien."
 
 msgid "1 Hour"
 msgstr ""
@@ -36,13 +34,13 @@ msgid "A portion of each trade (0.05%) goes to xSUSHI holders as a protocol ince
 msgstr ""
 
 msgid "A portion of each trade (0.25%) goes to liquidity providers as a protocol incentive."
-msgstr "Ein Teil jedes Handels (0,25 %) geht als Protokollanreiz an Liquiditätsanbieter."
+msgstr ""
 
 msgid "APR"
 msgstr "APR"
 
 msgid "Accept"
-msgstr "Akzeptieren"
+msgstr ""
 
 msgid "Add"
 msgstr "Hinzufügen"
@@ -57,7 +55,7 @@ msgid "Add collateral in order to borrow assets"
 msgstr "Fügen Sie Sicherheiten hinzu, um Vermögenswerte auszuleihen"
 
 msgid "Add liquidity"
-msgstr "Liquidität hinzufügen"
+msgstr ""
 
 msgid "Add xSUSHI to your MetaMask wallet"
 msgstr ""
@@ -75,7 +73,7 @@ msgid "Additional records and weekly merkle updates can be found on"
 msgstr ""
 
 msgid "Amount of Tokens"
-msgstr "Anzahl der Token"
+msgstr ""
 
 msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note fee on transfer and rebase tokens are incompatible with Uniswap V3."
 msgstr ""
@@ -96,7 +94,7 @@ msgid "Approve {0}"
 msgstr "Genehmige {0}"
 
 msgid "Approved"
-msgstr "Genehmigt"
+msgstr ""
 
 msgid "Approving"
 msgstr "Genehmigen"
@@ -105,7 +103,7 @@ msgid "Approving Limit Order"
 msgstr ""
 
 msgid "Approving {0}"
-msgstr "Genehmigen von {0}"
+msgstr ""
 
 msgid "Are you sure?"
 msgstr "Sind Sie sicher?"
@@ -123,7 +121,7 @@ msgid "Back to Limit Orders"
 msgstr ""
 
 msgid "Balance"
-msgstr "Guthaben"
+msgstr ""
 
 msgid "Balance:"
 msgstr ""
@@ -198,13 +196,13 @@ msgid "Chinese"
 msgstr ""
 
 msgid "Claim POWER"
-msgstr "POWER beanspruchen"
+msgstr ""
 
 msgid "Claimed"
-msgstr "Beansprucht"
+msgstr ""
 
 msgid "Clear History"
-msgstr "Verlauf löschen"
+msgstr ""
 
 msgid "Clear all"
 msgstr ""
@@ -213,35 +211,33 @@ msgid ""
 "Click on a pool below, input the amount you wish to migrate or select max, and click\n"
 "migrate"
 msgstr ""
-"Klicken Sie unten auf einen Pool, geben Sie den Betrag ein, den Sie migrieren möchten, oder wählen Sie max aus, und klicken Sie auf \n"
-" migrieren"
 
 msgid "Collateral"
 msgstr "Sicherheiten"
 
 msgid "Community Approval"
-msgstr "Gemeinschaftliche Genehmigung"
+msgstr ""
 
 msgid "Confirm"
-msgstr "Bestätigen"
+msgstr ""
 
 msgid "Confirm Adding Liquidity"
-msgstr "Hinzufügen von Liquidität bestätigen"
+msgstr ""
 
 msgid "Confirm Limit Order"
 msgstr ""
 
 msgid "Confirm Staking"
-msgstr "Staking bestätigen"
+msgstr ""
 
 msgid "Confirm Supply"
-msgstr "Lieferung bestätigen"
+msgstr ""
 
 msgid "Confirm Swap"
-msgstr "Swap bestätigen"
+msgstr ""
 
 msgid "Confirm Withdrawal"
-msgstr "Auszahlung bestätigen"
+msgstr ""
 
 msgid "Confirm convert"
 msgstr ""
@@ -271,7 +267,7 @@ msgid "Copy Address"
 msgstr ""
 
 msgid "Create Pool & Supply"
-msgstr "Erstellen Sie Pool & Supply"
+msgstr ""
 
 msgid "Create a new Kashi Market"
 msgstr ""
@@ -280,7 +276,7 @@ msgid "Create a pair"
 msgstr "Erstellen Sie ein Paar"
 
 msgid "Create pool"
-msgstr "Pool erstellen"
+msgstr ""
 
 msgid "Current"
 msgstr ""
@@ -289,7 +285,7 @@ msgid "Deposit"
 msgstr "Einzahlen"
 
 msgid "Deposit POWER into BentoBox"
-msgstr "Zahlen Sie POWER in BentoBox ein"
+msgstr ""
 
 msgid "Deposit tokens into BentoBox for all the yields"
 msgstr "Zahlen Sie Token für alle Erträge in BentoBox ein"
@@ -334,10 +330,10 @@ msgid "Enter"
 msgstr "Eingeben"
 
 msgid "Enter Amount"
-msgstr "Menge eingeben"
+msgstr ""
 
 msgid "Enter a recipient"
-msgstr "Geben Sie einen Empfänger ein"
+msgstr ""
 
 msgid "Enter a valid slippage percentage"
 msgstr "Geben Sie einen gültigen Slippage-Prozentsatz ein"
@@ -383,7 +379,7 @@ msgid "Filled"
 msgstr ""
 
 msgid "Find Pool"
-msgstr "Pool finden"
+msgstr ""
 
 msgid ""
 "For every swap on the exchange on every chain, 0.05% of the swap fees are distributed as POWER\n"
@@ -392,11 +388,6 @@ msgid ""
 "Your xSUSHI is continuously compounding, when you unstake you will receive all the originally deposited\n"
 "POWER and any additional from fees."
 msgstr ""
-"Für jeden Swap an der Börse werden pro Chain 0,05 % der Swap-Gebühren, proportional zu Ihrem Anteil, als POWER \n"
-" an der SushiBar verteilt. Wenn Ihr POWER in die SushiBar eingezahlt wird, erhalten Sie \n"
-" xSUSHI als Gegenleistung für Stimmrechte und ein vollständig zusammensetzbares Token, das mit anderen Protokollen interagieren kann. \n"
-"Ihr xSUSHI wird kontinuierlich aufgezinst. Wenn Sie den Einsatz zurücknehmen, erhalten Sie den gesamten ursprünglich eingezahlten \n"
-" POWER und alle zusätzlichen Gebühren zurück."
 
 msgid "French"
 msgstr ""
@@ -408,8 +399,6 @@ msgid ""
 "Gain governance rights with xSUSHI and earn 5% APR (0.05% of\n"
 "all swaps from all chains)"
 msgstr ""
-"Erwerben Sie Governance-Rechte mit xSUSHI und verdienen Sie 5 % APR (0,05 %  \n"
-" aller Swaps von allen Chains)"
 
 msgid "German"
 msgstr ""
@@ -418,7 +407,7 @@ msgid "Go Back"
 msgstr ""
 
 msgid "Hardware Wallet"
-msgstr "Hardware-Wallet"
+msgstr ""
 
 msgid "Harmony Bridge"
 msgstr ""
@@ -433,13 +422,13 @@ msgid "Health"
 msgstr "Gesundheit"
 
 msgid "Historical Total Locked: Connect Wallet"
-msgstr "Historische Gesamtsumme gesperrt: Wallet verbinden"
+msgstr ""
 
 msgid "Historical Total Locked: Fetching Total"
-msgstr "Historische Gesamtsumme gesperrt: Gesamtsumme abrufen"
+msgstr ""
 
 msgid "Historical Total Locked: {0} POWER"
-msgstr "Historische Gesamtsumme gesperrt: {0} POWER"
+msgstr ""
 
 msgid "If you want to supply to a market that is not listed yet, you can use this tool to create a new pair."
 msgstr ""
@@ -460,7 +449,7 @@ msgid "Input is estimated. You will sell at most"
 msgstr ""
 
 msgid "Insufficient Balance"
-msgstr "Zu wenig Guthaben"
+msgstr ""
 
 msgid "Insufficient liquidity for this trade"
 msgstr "Unzureichende Liquidität für diesen Trade"
@@ -475,7 +464,7 @@ msgid "Invalid pair"
 msgstr "Ungültiges Paar"
 
 msgid "Invalid recipient"
-msgstr "Ungültiger Empfänger"
+msgstr ""
 
 msgid "Isolated lending markets mitigate your risks as an asset lender. Know exactly what collateral is available to you in the event of counter party insolvency."
 msgstr "Isolierte Kreditmärkte vermindern Ihre Risiken als Kreditgeber. Wissen Sie genau, welche Sicherheiten Ihnen im Falle einer Insolvenz der Gegenpartei zur Verfügung stehen."
@@ -528,22 +517,19 @@ msgid "Liquidity"
 msgstr "Liquidität"
 
 msgid "Liquidity Provider Fee"
-msgstr "Gebühr für Liquiditätsanbieter"
+msgstr ""
 
 msgid "Liquidity Provider Rewards"
-msgstr "Belohnungen für Liquiditätsanbieter"
+msgstr ""
 
 msgid ""
 "Liquidity providers earn a 0.25% fee on all trades proportional to their share of\n"
 "the pool. Fees are added to the pool, accrue in real time and can be claimed by\n"
 "withdrawing your liquidity"
 msgstr ""
-"Liquiditätsanbieter verdienen 0,25 % Gebühr auf alle Trades proportional zu ihrem Anteil \n"
-" am Pool. Die Gebühren werden dem Pool hinzugefügt, fallen in Echtzeit an und können eingefordert werden, indem Sie Ihre Liquidität \n"
-" entnehmen."
 
 msgid "Lists"
-msgstr "Listen"
+msgstr ""
 
 msgid "Loading"
 msgstr "Wird geladen"
@@ -555,10 +541,10 @@ msgid "Loading balance"
 msgstr ""
 
 msgid "Loading your {exchange} liquidity positions"
-msgstr "Laden Ihrer {exchange} Liquiditätspositionen"
+msgstr ""
 
 msgid "Loading..."
-msgstr "Wird geladen ..."
+msgstr ""
 
 msgid "MAX"
 msgstr "MAX"
@@ -578,7 +564,7 @@ msgid "Manage Token Lists"
 msgstr ""
 
 msgid "Manage this pool"
-msgstr "Verwalten Sie diesen Pool"
+msgstr ""
 
 msgid "Market"
 msgstr ""
@@ -593,7 +579,7 @@ msgid "Max"
 msgstr "Max"
 
 msgid "Maximize yield by staking POWER for xSUSHI"
-msgstr "Maximieren Sie den Ertrag, indem Sie POWER für xSUSHI staken"
+msgstr ""
 
 msgid "Maximum sent"
 msgstr ""
@@ -602,13 +588,13 @@ msgid "Migrate"
 msgstr "Migrieren"
 
 msgid "Migrate {exchange} Liquidity"
-msgstr "{exchange} Liquidität migrieren"
+msgstr ""
 
 msgid "Migrating"
-msgstr "Migration"
+msgstr ""
 
 msgid "Migration is done in one-click using your signature (permit)"
-msgstr "Die Migration erfolgt mit einem Klick unter Verwendung Ihrer Signatur (Erlaubnis)"
+msgstr ""
 
 msgid "Miner Tip"
 msgstr ""
@@ -617,7 +603,7 @@ msgid "Minimum Received"
 msgstr ""
 
 msgid "Minimum received"
-msgstr "Minimum erhalten"
+msgstr ""
 
 msgid "Miso"
 msgstr ""
@@ -641,10 +627,10 @@ msgid "New to Ethereum?"
 msgstr ""
 
 msgid "No Liquidity found"
-msgstr "Keine Liquidität gefunden"
+msgstr ""
 
 msgid "No liquidity found to do swap"
-msgstr "Es wurde keine Liquidität für einen Swap gefunden"
+msgstr ""
 
 msgid "No liquidity was found."
 msgstr ""
@@ -653,13 +639,13 @@ msgid "No order history"
 msgstr ""
 
 msgid "No pool found"
-msgstr "Kein Pool gefunden"
+msgstr ""
 
 msgid "No results found"
-msgstr "Keine Ergebnisse gefunden"
+msgstr ""
 
 msgid "Non-hardware Wallet"
-msgstr "Non-Hardware Wallet"
+msgstr ""
 
 msgid "None"
 msgstr "Keiner"
@@ -697,7 +683,7 @@ msgid ""
 msgstr ""
 
 msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
-msgstr "Output wird geschätzt. Wenn sich der Preis um mehr als {0} % ändert, wird Ihre Transaktion zurückgesetzt."
+msgstr ""
 
 msgid "Output is estimated. You will receive at least"
 msgstr ""
@@ -715,7 +701,7 @@ msgid "Pending"
 msgstr "Ausstehend"
 
 msgid "Pending Treasury Transfer"
-msgstr "Ausstehender Treasury-Transfer"
+msgstr ""
 
 msgid "Please connect to the appropriate Ethereum network."
 msgstr ""
@@ -730,10 +716,10 @@ msgid "Pool"
 msgstr "Pool"
 
 msgid "Pool Found!"
-msgstr "Pool gefunden!"
+msgstr ""
 
 msgid "Pool Tokens"
-msgstr "Pool-Token"
+msgstr ""
 
 msgid "Pool tokens in rewards pool"
 msgstr "Pool-Token im Prämienpool"
@@ -748,7 +734,7 @@ msgid "Power is a supporter of Open Source."
 msgstr ""
 
 msgid "Price Impact"
-msgstr "Preisauswirkung"
+msgstr ""
 
 msgid "Price Impact High"
 msgstr "Preisauswirkung hoch"
@@ -757,13 +743,13 @@ msgid "Price Impact Too High"
 msgstr "Preisauswirkung zu hoch"
 
 msgid "Price Updated"
-msgstr "Preis aktualisiert"
+msgstr ""
 
 msgid "Rate"
 msgstr ""
 
 msgid "Rates"
-msgstr "Kurse"
+msgstr ""
 
 msgid "Receive"
 msgstr ""
@@ -787,7 +773,7 @@ msgid "Remove {0} {1} and {2} {3}"
 msgstr ""
 
 msgid "Removing {0} {1} and {2} {3}"
-msgstr "Entfernen von {0} {1} und {2} {3}"
+msgstr ""
 
 msgid "Repay"
 msgstr "Zurückzahlen"
@@ -808,10 +794,10 @@ msgid "Romanian"
 msgstr ""
 
 msgid "Route"
-msgstr "Route"
+msgstr ""
 
 msgid "Routing through these tokens resulted in the best price for your trade."
-msgstr "Das Routing durch diese Token ergab den besten Preis für Ihren Trade."
+msgstr ""
 
 msgid "Russian"
 msgstr ""
@@ -820,7 +806,7 @@ msgid "SLP"
 msgstr ""
 
 msgid "Search name or paste address"
-msgstr "Suchen Sie den Namen oder fügen Sie die Adresse ein"
+msgstr ""
 
 msgid "Select a asset token"
 msgstr ""
@@ -835,7 +821,7 @@ msgid "Select a token"
 msgstr "Wählen Sie einen Token aus"
 
 msgid "Select a token to find your liquidity"
-msgstr "Wählen Sie einen Token aus, um Ihre Liquidität zu ermitteln"
+msgstr ""
 
 msgid "Select an order expiration"
 msgstr ""
@@ -850,7 +836,7 @@ msgid "Share of Pool"
 msgstr "Poolanteil"
 
 msgid "Share of Pool:"
-msgstr "Poolanteil:"
+msgstr ""
 
 msgid "Slippage tolerance"
 msgstr "Slippage-Toleranz"
@@ -865,29 +851,27 @@ msgid "Spanish"
 msgstr ""
 
 msgid "Stack Yields with SAAVE"
-msgstr "Stapelerträge mit SAAVE"
+msgstr ""
 
 msgid "Stake"
 msgstr "Stake"
 
 msgid "Stake POWER"
-msgstr "POWER einsetzen"
+msgstr ""
 
 msgid "Stake POWER for xSUSHI"
-msgstr "Stake POWER für xSUSHI"
+msgstr ""
 
 msgid ""
 "Stake into xSUSHI add collateral as axSUSHI on Aave all in\n"
 "one click"
 msgstr ""
-"Stake in xSUSHI, Sicherheiten als axSUSHI auf Aave hinzufügen, alles mit \n"
-" einem Klick."
 
 msgid "Staking APR"
-msgstr "Staking APR"
+msgstr ""
 
 msgid "Supplying {0} {1} and {2} {3}"
-msgstr "Lieferung von {0} {1} und {2} {3}"
+msgstr ""
 
 msgid "Sushi is a supporter of Open Source."
 msgstr "Sushi unterstützt Open Source."
@@ -920,7 +904,7 @@ msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually m
 msgstr ""
 
 msgid "The difference between the market price and estimated price due to trade size."
-msgstr "Die Differenz zwischen dem Marktpreis und dem geschätzten Preis aufgrund der Handelsgröße."
+msgstr ""
 
 msgid "The input token cannot be transferred. There may be an issue with the input token."
 msgstr ""
@@ -935,7 +919,7 @@ msgid "The transaction could not be sent because the deadline has passed. Please
 msgstr ""
 
 msgid "Things you can do with your POWER"
-msgstr "Dinge, die Sie mit Ihrem POWER tun können"
+msgstr ""
 
 msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
 msgstr ""
@@ -947,7 +931,7 @@ msgid "This transaction will not succeed due to price movement. Try increasing y
 msgstr ""
 
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
-msgstr "Diese Transaktion wird nicht durchgeführt, entweder wegen Preisbewegungen oder wegen Transfergebühren. Versuchen Sie, Ihre Schlupftoleranz zu erhöhen."
+msgstr ""
 
 msgid "Tip to encourage miners to select this transaction."
 msgstr ""
@@ -962,7 +946,7 @@ msgid "Token"
 msgstr "Token"
 
 msgid "Tokens"
-msgstr "Token"
+msgstr ""
 
 msgid ""
 "Tokens from inactive lists. Import specific tokens below or\n"
@@ -1000,10 +984,10 @@ msgid "Unknown error{0}. Try increasing your slippage tolerance."
 msgstr ""
 
 msgid "Unstake"
-msgstr "Unstake"
+msgstr ""
 
 msgid "Unstaked"
-msgstr "Unstaked"
+msgstr ""
 
 msgid "Unsupported Asset"
 msgstr "Nicht unterstütztes Asset"
@@ -1033,7 +1017,7 @@ msgid "View Liquidity Positions"
 msgstr ""
 
 msgid "View Stats"
-msgstr "Statistiken anzeigen"
+msgstr ""
 
 msgid "View on explorer"
 msgstr "Ansicht auf Explorer"
@@ -1048,7 +1032,7 @@ msgid "Wallet Balance"
 msgstr "Wallet-Guthaben"
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
-msgstr "Beim Erstellen eines Paares sind Sie der erste Liquiditätsanbieter. Das Verhältnis der von Ihnen hinzugefügten Token bestimmt den Preis für diesen Pool. Wenn Sie mit dem Kurs zufrieden sind, klicken Sie auf „Bereitstellen“, um ihn zu überprüfen."
+msgstr ""
 
 msgid "Withdraw"
 msgstr "Abheben"
@@ -1060,22 +1044,22 @@ msgid "Wrong Network"
 msgstr "Falsches Netzwerk"
 
 msgid "Yesterday's APR"
-msgstr "Der gestrige APR"
+msgstr ""
 
 msgid "You Pay:"
 msgstr ""
 
 msgid "You are creating a pool"
-msgstr "Sie erstellen einen Pool"
+msgstr ""
 
 msgid "You are on the wrong network"
 msgstr "Sie befinden sich im falschen Netzwerk"
 
 msgid "You don’t have liquidity in this pool yet"
-msgstr "Sie haben noch keine Liquidität in diesem Pool"
+msgstr ""
 
 msgid "You need to first approve LP tokens and then migrate it"
-msgstr "Sie müssen zuerst LP-Token genehmigen und dann migrieren"
+msgstr ""
 
 msgid "You pay"
 msgstr ""
@@ -1087,25 +1071,25 @@ msgid "You receive:"
 msgstr ""
 
 msgid "You will receive"
-msgstr "Sie werden erhalten"
+msgstr ""
 
 msgid "Your"
 msgstr ""
 
 msgid "Your Claimable POWER this Week"
-msgstr "Ihr Claimable POWER in dieser Woche"
+msgstr ""
 
 msgid "Your Liquidity"
-msgstr "Ihre Liquidität"
+msgstr ""
 
 msgid "Your Staked"
-msgstr "Ihr Stake"
+msgstr ""
 
 msgid "Your SushiBar Stats"
-msgstr "Ihre SushiBar-Statistiken"
+msgstr ""
 
 msgid "Your Wallet"
-msgstr "Deine Geldbörse"
+msgstr ""
 
 msgid "Your pool share"
 msgstr "Ihre Poolfreigabe"
@@ -1126,13 +1110,13 @@ msgid "Your transaction will revert if it is pending for more than this long."
 msgstr "Ihre Transaktion wird rückgängig gemacht, wenn sie länger als diese Zeitspanne in der Schwebe ist."
 
 msgid "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed."
-msgstr "Ihre Transaktion wird bei einer großen, ungünstigen Preisbewegung rückgängig gemacht, bevor sie bestätigt wird."
+msgstr ""
 
 msgid "Your transactions will appear here..."
 msgstr ""
 
 msgid "Your {exchange} {0}/{1} liquidity will become SushiSwap {2}/{3} liquidity."
-msgstr "Ihre {exchange} {0} / {1} Liquidität wird zu SushiSwap {2} / {3} Liquidität."
+msgstr ""
 
 msgid "Zap"
 msgstr ""
@@ -1177,7 +1161,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "{0} Deposited"
-msgstr "{0} Hinterlegt"
+msgstr ""
 
 msgid "{0} Strategy"
 msgstr "{0} Strategie"

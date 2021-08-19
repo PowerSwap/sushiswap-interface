@@ -17,8 +17,6 @@ msgid ""
 "(COMING SOON) Accrue automatic yield through flash loans and\n"
 "POWER strategies"
 msgstr ""
-"(출시 예정) 플래시 대출 및 \n"
-" POWER 전략을 통해 자동 수익 창출"
 
 msgid "1 Hour"
 msgstr ""
@@ -36,13 +34,13 @@ msgid "A portion of each trade (0.05%) goes to xSUSHI holders as a protocol ince
 msgstr ""
 
 msgid "A portion of each trade (0.25%) goes to liquidity providers as a protocol incentive."
-msgstr "각 거래 금액의 일부(0.25%)는 프로토콜 인센티브로 유동성 공급자에게 전달됩니다."
+msgstr ""
 
 msgid "APR"
 msgstr "APR"
 
 msgid "Accept"
-msgstr "동의"
+msgstr ""
 
 msgid "Add"
 msgstr "추가"
@@ -57,7 +55,7 @@ msgid "Add collateral in order to borrow assets"
 msgstr "자산을 빌리려면 담보를 추가하세요"
 
 msgid "Add liquidity"
-msgstr "유동성 추가"
+msgstr ""
 
 msgid "Add xSUSHI to your MetaMask wallet"
 msgstr ""
@@ -75,7 +73,7 @@ msgid "Additional records and weekly merkle updates can be found on"
 msgstr ""
 
 msgid "Amount of Tokens"
-msgstr "토큰 양"
+msgstr ""
 
 msgid "An error occurred when trying to execute this swap. You may need to increase your slippage tolerance. If that does not work, there may be an incompatibility with the token you are trading. Note fee on transfer and rebase tokens are incompatible with Uniswap V3."
 msgstr ""
@@ -96,7 +94,7 @@ msgid "Approve {0}"
 msgstr "{0} 승인하기"
 
 msgid "Approved"
-msgstr "승인됨"
+msgstr ""
 
 msgid "Approving"
 msgstr "승인"
@@ -105,7 +103,7 @@ msgid "Approving Limit Order"
 msgstr ""
 
 msgid "Approving {0}"
-msgstr "{0} 승인"
+msgstr ""
 
 msgid "Are you sure?"
 msgstr "확실합니까?"
@@ -123,7 +121,7 @@ msgid "Back to Limit Orders"
 msgstr ""
 
 msgid "Balance"
-msgstr "잔액"
+msgstr ""
 
 msgid "Balance:"
 msgstr ""
@@ -198,13 +196,13 @@ msgid "Chinese"
 msgstr ""
 
 msgid "Claim POWER"
-msgstr "POWER 청구"
+msgstr ""
 
 msgid "Claimed"
-msgstr "청구됨"
+msgstr ""
 
 msgid "Clear History"
-msgstr "기록 지우기"
+msgstr ""
 
 msgid "Clear all"
 msgstr ""
@@ -213,35 +211,33 @@ msgid ""
 "Click on a pool below, input the amount you wish to migrate or select max, and click\n"
 "migrate"
 msgstr ""
-"아래 풀을 클릭하고 마이그레이션할 금액을 입력하거나 최대치를 선택한 다음\n"
-"마이그레이션을 클릭"
 
 msgid "Collateral"
 msgstr "담보"
 
 msgid "Community Approval"
-msgstr "커뮤니티 승인"
+msgstr ""
 
 msgid "Confirm"
-msgstr "확인"
+msgstr ""
 
 msgid "Confirm Adding Liquidity"
-msgstr "유동성 추가 확인"
+msgstr ""
 
 msgid "Confirm Limit Order"
 msgstr ""
 
 msgid "Confirm Staking"
-msgstr "스테이킹 확인"
+msgstr ""
 
 msgid "Confirm Supply"
-msgstr "공급 확인"
+msgstr ""
 
 msgid "Confirm Swap"
-msgstr "스왑 확인"
+msgstr ""
 
 msgid "Confirm Withdrawal"
-msgstr "출금 확인"
+msgstr ""
 
 msgid "Confirm convert"
 msgstr ""
@@ -271,7 +267,7 @@ msgid "Copy Address"
 msgstr ""
 
 msgid "Create Pool & Supply"
-msgstr "풀 생성 및 공급"
+msgstr ""
 
 msgid "Create a new Kashi Market"
 msgstr ""
@@ -280,7 +276,7 @@ msgid "Create a pair"
 msgstr "쌍 만들기"
 
 msgid "Create pool"
-msgstr "풀 만들기"
+msgstr ""
 
 msgid "Current"
 msgstr ""
@@ -289,7 +285,7 @@ msgid "Deposit"
 msgstr "예금"
 
 msgid "Deposit POWER into BentoBox"
-msgstr "BentoBox에 POWER 입금"
+msgstr ""
 
 msgid "Deposit tokens into BentoBox for all the yields"
 msgstr "모든 수익에 대한 토큰을 BentoBox에 입금하세요"
@@ -334,10 +330,10 @@ msgid "Enter"
 msgstr "입력"
 
 msgid "Enter Amount"
-msgstr "금액 입력"
+msgstr ""
 
 msgid "Enter a recipient"
-msgstr "수신자 입력"
+msgstr ""
 
 msgid "Enter a valid slippage percentage"
 msgstr "유효한 슬리피지 비율 입력"
@@ -383,7 +379,7 @@ msgid "Filled"
 msgstr ""
 
 msgid "Find Pool"
-msgstr "풀 찾기"
+msgstr ""
 
 msgid ""
 "For every swap on the exchange on every chain, 0.05% of the swap fees are distributed as POWER\n"
@@ -392,9 +388,6 @@ msgid ""
 "Your xSUSHI is continuously compounding, when you unstake you will receive all the originally deposited\n"
 "POWER and any additional from fees."
 msgstr ""
-"모든 체인에 있는 거래소의 모든 스왑에 대해 스왑 수수료의 0.05 %가\n"
-"SushiBar 지분에 비례하여 SUSHI로 지급됩니다. SUSHI가 SushiBar에 스테이킹되면 투표 권한을 포함하는 xSUSHI 토큰을 받게 됩니다.\n"
-"xSUSHI 이자는 누적되며 이후에 출금할 때는 처음 스테이킹한 SUSHI에 더해 추가 수수료를 돌려 받게 됩니다."
 
 msgid "French"
 msgstr ""
@@ -406,8 +399,6 @@ msgid ""
 "Gain governance rights with xSUSHI and earn 5% APR (0.05% of\n"
 "all swaps from all chains)"
 msgstr ""
-"xSUSHI로 거버넌스 권한을 얻고 APR 5 % 수익\n"
-"(모든 체인에서 발생하는 0.05% 스왑 수수료)을 얻으세요"
 
 msgid "German"
 msgstr ""
@@ -416,7 +407,7 @@ msgid "Go Back"
 msgstr ""
 
 msgid "Hardware Wallet"
-msgstr "하드웨어 지갑"
+msgstr ""
 
 msgid "Harmony Bridge"
 msgstr ""
@@ -431,13 +422,13 @@ msgid "Health"
 msgstr "건전성"
 
 msgid "Historical Total Locked: Connect Wallet"
-msgstr "잠긴 기록 합계: 지갑 연결"
+msgstr ""
 
 msgid "Historical Total Locked: Fetching Total"
-msgstr "잠긴 기록 합계: 전체 금액 가져오는 중"
+msgstr ""
 
 msgid "Historical Total Locked: {0} POWER"
-msgstr "잠긴 기록 합계: {0} POWER"
+msgstr ""
 
 msgid "If you want to supply to a market that is not listed yet, you can use this tool to create a new pair."
 msgstr ""
@@ -458,7 +449,7 @@ msgid "Input is estimated. You will sell at most"
 msgstr ""
 
 msgid "Insufficient Balance"
-msgstr "잔액 부족"
+msgstr ""
 
 msgid "Insufficient liquidity for this trade"
 msgstr "이 거래를 위한 유동성 부족"
@@ -473,7 +464,7 @@ msgid "Invalid pair"
 msgstr "잘못된 쌍"
 
 msgid "Invalid recipient"
-msgstr "잘못된 수신자"
+msgstr ""
 
 msgid "Isolated lending markets mitigate your risks as an asset lender. Know exactly what collateral is available to you in the event of counter party insolvency."
 msgstr "격리 대출 시장은 자산 대출자에 대한 위험을 완화합니다. 상대방 파산 시 어떤 담보를 사용할 수 있는지 정확히 알아보세요."
@@ -526,22 +517,19 @@ msgid "Liquidity"
 msgstr "유동성"
 
 msgid "Liquidity Provider Fee"
-msgstr "유동성 제공자 수수료"
+msgstr ""
 
 msgid "Liquidity Provider Rewards"
-msgstr "유동성 제공자 보상"
+msgstr ""
 
 msgid ""
 "Liquidity providers earn a 0.25% fee on all trades proportional to their share of\n"
 "the pool. Fees are added to the pool, accrue in real time and can be claimed by\n"
 "withdrawing your liquidity"
 msgstr ""
-"유동성 공급자들은 풀에 대한 지분에 따라 거래 시 발생하는 0.25%의 수수료의 일부를 받게 됩니다.\n"
-"수수료는 풀에 포함되며 실시간으로 발생하고 유동성 출금 시에 받게 됩니다.\n"
-""
 
 msgid "Lists"
-msgstr "리스트"
+msgstr ""
 
 msgid "Loading"
 msgstr "로드 중"
@@ -553,10 +541,10 @@ msgid "Loading balance"
 msgstr ""
 
 msgid "Loading your {exchange} liquidity positions"
-msgstr "{exchange} 유동성 포지션 로드 중"
+msgstr ""
 
 msgid "Loading..."
-msgstr "로드 중..."
+msgstr ""
 
 msgid "MAX"
 msgstr "최대"
@@ -576,7 +564,7 @@ msgid "Manage Token Lists"
 msgstr ""
 
 msgid "Manage this pool"
-msgstr "이 풀 관리"
+msgstr ""
 
 msgid "Market"
 msgstr ""
@@ -591,7 +579,7 @@ msgid "Max"
 msgstr "최대"
 
 msgid "Maximize yield by staking POWER for xSUSHI"
-msgstr "xSUSHI에 대한 POWER 스테이킹으로 수익 극대화"
+msgstr ""
 
 msgid "Maximum sent"
 msgstr ""
@@ -600,13 +588,13 @@ msgid "Migrate"
 msgstr "마이그레이션"
 
 msgid "Migrate {exchange} Liquidity"
-msgstr "{exchange} 유동성 마이그레이션"
+msgstr ""
 
 msgid "Migrating"
-msgstr "마이그레이션"
+msgstr ""
 
 msgid "Migration is done in one-click using your signature (permit)"
-msgstr "귀하의 서명(허가)과  한 번의 클릭으로 마이그레이션이 수행됩니다"
+msgstr ""
 
 msgid "Miner Tip"
 msgstr ""
@@ -615,7 +603,7 @@ msgid "Minimum Received"
 msgstr ""
 
 msgid "Minimum received"
-msgstr "최소 수령"
+msgstr ""
 
 msgid "Miso"
 msgstr ""
@@ -639,10 +627,10 @@ msgid "New to Ethereum?"
 msgstr ""
 
 msgid "No Liquidity found"
-msgstr "유동성 없음"
+msgstr ""
 
 msgid "No liquidity found to do swap"
-msgstr "스왑할 유동성 없음"
+msgstr ""
 
 msgid "No liquidity was found."
 msgstr ""
@@ -651,13 +639,13 @@ msgid "No order history"
 msgstr ""
 
 msgid "No pool found"
-msgstr "풀 없음"
+msgstr ""
 
 msgid "No results found"
-msgstr "검색 결과가 없습니다"
+msgstr ""
 
 msgid "Non-hardware Wallet"
-msgstr "비-하드웨어 지갑"
+msgstr ""
 
 msgid "None"
 msgstr "없음"
@@ -695,7 +683,7 @@ msgid ""
 msgstr ""
 
 msgid "Output is estimated. If the price changes by more than {0}% your transaction will revert."
-msgstr "결과는 예상치입니다. 가격이 {0}% 이상 변동하면 거래가 취소됩니다."
+msgstr ""
 
 msgid "Output is estimated. You will receive at least"
 msgstr ""
@@ -713,7 +701,7 @@ msgid "Pending"
 msgstr "보류 중"
 
 msgid "Pending Treasury Transfer"
-msgstr "보류 중인 자금 이체"
+msgstr ""
 
 msgid "Please connect to the appropriate Ethereum network."
 msgstr ""
@@ -728,10 +716,10 @@ msgid "Pool"
 msgstr "풀"
 
 msgid "Pool Found!"
-msgstr "풀을 찾았습니다!"
+msgstr ""
 
 msgid "Pool Tokens"
-msgstr "풀 토큰"
+msgstr ""
 
 msgid "Pool tokens in rewards pool"
 msgstr "보상 풀의 풀 토큰"
@@ -746,7 +734,7 @@ msgid "Power is a supporter of Open Source."
 msgstr ""
 
 msgid "Price Impact"
-msgstr "가격 영향"
+msgstr ""
 
 msgid "Price Impact High"
 msgstr "가격 영향 높음"
@@ -755,13 +743,13 @@ msgid "Price Impact Too High"
 msgstr "가격 영향이 너무 높음"
 
 msgid "Price Updated"
-msgstr "가격이 업데이트되었습니다"
+msgstr ""
 
 msgid "Rate"
 msgstr ""
 
 msgid "Rates"
-msgstr "요금"
+msgstr ""
 
 msgid "Receive"
 msgstr ""
@@ -785,7 +773,7 @@ msgid "Remove {0} {1} and {2} {3}"
 msgstr ""
 
 msgid "Removing {0} {1} and {2} {3}"
-msgstr "{0} {1} 및 {2} {3} 제거 중"
+msgstr ""
 
 msgid "Repay"
 msgstr "상환"
@@ -806,10 +794,10 @@ msgid "Romanian"
 msgstr ""
 
 msgid "Route"
-msgstr "루트"
+msgstr ""
 
 msgid "Routing through these tokens resulted in the best price for your trade."
-msgstr "다음 토큰을 통한 라우팅을 통해 최적의 가격이 산출되었습니다."
+msgstr ""
 
 msgid "Russian"
 msgstr ""
@@ -818,7 +806,7 @@ msgid "SLP"
 msgstr ""
 
 msgid "Search name or paste address"
-msgstr "이름 검색 또는 주소 붙여넣기"
+msgstr ""
 
 msgid "Select a asset token"
 msgstr ""
@@ -833,7 +821,7 @@ msgid "Select a token"
 msgstr "토큰 선택"
 
 msgid "Select a token to find your liquidity"
-msgstr "토큰을 선택하여 유동성 찾기"
+msgstr ""
 
 msgid "Select an order expiration"
 msgstr ""
@@ -848,7 +836,7 @@ msgid "Share of Pool"
 msgstr "풀 지분"
 
 msgid "Share of Pool:"
-msgstr "풀 지분:"
+msgstr ""
 
 msgid "Slippage tolerance"
 msgstr "슬리피지 허용 범위"
@@ -863,29 +851,27 @@ msgid "Spanish"
 msgstr ""
 
 msgid "Stack Yields with SAAVE"
-msgstr "SAAVE로 수익을 쌓으세요"
+msgstr ""
 
 msgid "Stake"
 msgstr "스테이킹"
 
 msgid "Stake POWER"
-msgstr "POWER 스테이킹"
+msgstr ""
 
 msgid "Stake POWER for xSUSHI"
-msgstr "SUSHI를 스테이크하고 xSUSHI를 얻으세요"
+msgstr ""
 
 msgid ""
 "Stake into xSUSHI add collateral as axSUSHI on Aave all in\n"
 "one click"
 msgstr ""
-"한 번의 클릭으로 xSUSHI를 스테이크하고, \n"
-"Aave에 axSUSHI로 담보를 추가합니다"
 
 msgid "Staking APR"
-msgstr "APR 스테이킹"
+msgstr ""
 
 msgid "Supplying {0} {1} and {2} {3}"
-msgstr "{0} {1} 및 {2} {3} 공급 중"
+msgstr ""
 
 msgid "Sushi is a supporter of Open Source."
 msgstr "스시는 오픈 소스를 지지합니다."
@@ -918,7 +904,7 @@ msgid "The Uniswap invariant x*y=k was not satisfied by the swap. This usually m
 msgstr ""
 
 msgid "The difference between the market price and estimated price due to trade size."
-msgstr "시장 가격과 거래 규모로 인한 예상 가격의 차이."
+msgstr ""
 
 msgid "The input token cannot be transferred. There may be an issue with the input token."
 msgstr ""
@@ -933,7 +919,7 @@ msgid "The transaction could not be sent because the deadline has passed. Please
 msgstr ""
 
 msgid "Things you can do with your POWER"
-msgstr "SUSHI로 할 수 있는 것들"
+msgstr ""
 
 msgid "This token doesn't appear on the active token list(s). Make sure this is the token that you want to trade."
 msgstr ""
@@ -945,7 +931,7 @@ msgid "This transaction will not succeed due to price movement. Try increasing y
 msgstr ""
 
 msgid "This transaction will not succeed either due to price movement or fee on transfer. Try increasing your slippage tolerance."
-msgstr "이 거래는 가격 변동이나 이체 수수료 문제로 불가능합니다. 슬리피지 허용치를 높이세요."
+msgstr ""
 
 msgid "Tip to encourage miners to select this transaction."
 msgstr ""
@@ -960,7 +946,7 @@ msgid "Token"
 msgstr "토큰"
 
 msgid "Tokens"
-msgstr "토큰"
+msgstr ""
 
 msgid ""
 "Tokens from inactive lists. Import specific tokens below or\n"
@@ -998,10 +984,10 @@ msgid "Unknown error{0}. Try increasing your slippage tolerance."
 msgstr ""
 
 msgid "Unstake"
-msgstr "언스테이크"
+msgstr ""
 
 msgid "Unstaked"
-msgstr "지분 없음"
+msgstr ""
 
 msgid "Unsupported Asset"
 msgstr "지원되지 않는 자산"
@@ -1031,7 +1017,7 @@ msgid "View Liquidity Positions"
 msgstr ""
 
 msgid "View Stats"
-msgstr "통계 보기"
+msgstr ""
 
 msgid "View on explorer"
 msgstr "탐색기에서 보기"
@@ -1046,7 +1032,7 @@ msgid "Wallet Balance"
 msgstr "지갑 잔액"
 
 msgid "When creating a pair you are the first liquidity provider. The ratio of tokens you add will set the price of this pool. Once you are happy with the rate, click supply to review"
-msgstr "쌍을 만들 때 귀하는 최초의 유동성 공급자입니다. 추가하는 토큰의 비율이이 풀의 가격을 설정합니다. 요금에 만족하면 공급을 클릭하여 검토하세요."
+msgstr ""
 
 msgid "Withdraw"
 msgstr "인출"
@@ -1058,22 +1044,22 @@ msgid "Wrong Network"
 msgstr "잘못된 네트워크"
 
 msgid "Yesterday's APR"
-msgstr "어제의 APR"
+msgstr ""
 
 msgid "You Pay:"
 msgstr ""
 
 msgid "You are creating a pool"
-msgstr "풀 생성 중"
+msgstr ""
 
 msgid "You are on the wrong network"
 msgstr "잘못된 네트워크에 있습니다."
 
 msgid "You don’t have liquidity in this pool yet"
-msgstr "아직 이 풀에 유동성이 없습니다"
+msgstr ""
 
 msgid "You need to first approve LP tokens and then migrate it"
-msgstr "먼저 LP 토큰을 승인 한 다음 마이그레이션해야 합니다"
+msgstr ""
 
 msgid "You pay"
 msgstr ""
@@ -1085,25 +1071,25 @@ msgid "You receive:"
 msgstr ""
 
 msgid "You will receive"
-msgstr "예상 수령"
+msgstr ""
 
 msgid "Your"
 msgstr ""
 
 msgid "Your Claimable POWER this Week"
-msgstr "이번 주에 출금가능한 POWER"
+msgstr ""
 
 msgid "Your Liquidity"
-msgstr "내 유동성"
+msgstr ""
 
 msgid "Your Staked"
-msgstr "귀하의 지분"
+msgstr ""
 
 msgid "Your SushiBar Stats"
-msgstr "내 SushiBar 통계"
+msgstr ""
 
 msgid "Your Wallet"
-msgstr "내 지갑"
+msgstr ""
 
 msgid "Your pool share"
 msgstr "풀 점유율"
@@ -1124,13 +1110,13 @@ msgid "Your transaction will revert if it is pending for more than this long."
 msgstr "이 기간 이상 보류 상태에 머물러 있는 거래는 취소됩니다."
 
 msgid "Your transaction will revert if there is a large, unfavorable price movement before it is confirmed."
-msgstr "거래가 확인되기 전에 크게 불리한 가격 변동이 있는 경우 거래가 취소됩니다."
+msgstr ""
 
 msgid "Your transactions will appear here..."
 msgstr ""
 
 msgid "Your {exchange} {0}/{1} liquidity will become SushiSwap {2}/{3} liquidity."
-msgstr "{exchange}의 {0}/{1} 유동성이 SushiSwap {2}/{3} 유동성으로 변환됩니다."
+msgstr ""
 
 msgid "Zap"
 msgstr ""
@@ -1175,7 +1161,7 @@ msgstr[0] ""
 msgstr[1] ""
 
 msgid "{0} Deposited"
-msgstr "{0} 입금됨"
+msgstr ""
 
 msgid "{0} Strategy"
 msgstr "{0} 전략"
