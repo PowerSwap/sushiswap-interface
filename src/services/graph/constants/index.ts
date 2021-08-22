@@ -9,6 +9,6 @@ export const GRAPH_HOST = {
   [ChainId.BSC]: THE_GRAPH,
   [ChainId.AVALANCHE]: THE_GRAPH,
   [ChainId.CELO]: THE_GRAPH,
-  [ChainId.HARMONY]: 'http://194.163.159.200:8000',
+  [ChainId.HARMONY]: 'https://194.163.159.200:8443',
   [ChainId.OKEX]: 'https://graph.kkt.one/node',
 }
