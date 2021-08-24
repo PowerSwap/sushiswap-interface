@@ -13,6 +13,7 @@
     "circular": "madge --circular src --extensions ts,tsx,js,jsx",
     "unused": "next-unused",
     "prepare": "husky install",
+    "pre-commit": "lint-staged",
     "prettier": "prettier --write 'src/**/*.{ts,tsx}'",
     "lint": "next lint"
   },
@@ -56,7 +57,7 @@
     "@sushiswap/core": "2.0.0-canary.0",
     "@sushiswap/default-token-list": "11.0.0",
     "@sushiswap/limit-order-pair-list": "0.2.0",
-    "@powerswap/sdk": "1.11.0-ps",
+    "@powerswap/sdk": "1.13.0-ps",
     "@sushiswap/sushi-data": "^1.0.24",
     "@tailwindcss/jit": "^0.1.18",
     "@transak/transak-sdk": "^1.0.28",
