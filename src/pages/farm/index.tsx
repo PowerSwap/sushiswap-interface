@@ -179,11 +179,11 @@ export default function Farm(): JSX.Element {
             icon: 'https://raw.githubusercontent.com/sushiswap/icons/master/token/stake.jpg',
             rewardPrice: stakePrice,
           },
-          [ChainId.HARMONY]: {
-            token: 'ONE',
-            icon: 'https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg',
-            rewardPrice: onePrice,
-          },
+          // [ChainId.HARMONY]: {
+          //   token: 'ONE',
+          //   icon: 'https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg',
+          //   rewardPrice: onePrice,
+          // },
         }
 
         return [
@@ -192,11 +192,11 @@ export default function Farm(): JSX.Element {
             rewardPerBlock: sushiPerBlock,
             rewardPerDay: sushiPerDay,
           },
-          {
-            ...reward[chainId],
-            rewardPerBlock: rewardPerBlock,
-            rewardPerDay: rewardPerDay,
-          },
+          // {
+          //   ...reward[chainId],
+          //   rewardPerBlock: rewardPerBlock,
+          //   rewardPerDay: rewardPerDay,
+          // },
         ]
       }
       return defaultRewards
